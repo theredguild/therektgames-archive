@@ -1,0 +1,14 @@
+{
+  "name": "guild-intern",
+  "version": "1.0.0",
+  "main": "vanity-wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eugenioclrc",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "viem": "^2.21.38"
+  }
+}
