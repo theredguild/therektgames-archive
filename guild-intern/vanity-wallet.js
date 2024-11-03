@@ -3,8 +3,8 @@ const { privateKeyToAccount } = require('viem/accounts')
 
 // script to create a new account starting with 0xc0de
 // @authot RedGuildIntern
-// @date 2024-10-01 (yyyy-mm-dd)
-const start = Math.round(new Date().getTime() / 1000);
+// @date 2008-10-31T00:00:00.000Z
+	const start = Math.round(new Date().getTime() / 1000);
 
 let i = start;
 while(1) {
